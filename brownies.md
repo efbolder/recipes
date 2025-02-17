@@ -2,5 +2,5 @@
 ## Ingredients 
 * Chocolate 
 * Butter 
-* Eggs
+* Eggs x4
 * Sugar 
